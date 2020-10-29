@@ -1,2 +1,2 @@
-# Classification
-Training deeplearning neural networks I classify data(images, videos, text data)
+# Binary DogvsCat Classification
+Training DeepLearning Neural Networks I classify image to be a doggo or kitty
